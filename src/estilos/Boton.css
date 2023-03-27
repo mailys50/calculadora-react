@@ -5,7 +5,7 @@
     justify-content: center;
     align-items: center;
     font-weight: bold;
-    font-size: 38px;
+    font-size: 30px;
     background-color: black;
     color: white;
     border-radius: 25px;
@@ -16,12 +16,12 @@
     
 }
 .contenerorBoton:hover{
-  background-color: rgb(231, 192, 17);
+  background-color: rgb(110, 109, 106);
 }
 .operador{
-  background-color: rgba(42, 165, 61, 0.86);
+  background-color: rgba(5, 111, 21, 0.86);
 }
 .operador:hover{
-  background-color: rgb(237, 92, 19);
+  background-color: rgb(36, 169, 118);
 }
 

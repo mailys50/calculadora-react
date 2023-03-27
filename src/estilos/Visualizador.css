@@ -1,0 +1,16 @@
+.pantalla{
+    background-color: rgb(20, 7, 7);
+    height: 75px;
+    border-radius: 50px;
+    margin-bottom: 20PX;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 38px;
+    color: white;
+    padding: 11PX 30px 11px 11px;
+    margin: 1px solid #888888;
+    box-shadow: -1px 4px 1px 1px white;
+        
+}
